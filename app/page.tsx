@@ -27,13 +27,11 @@ export default function Home() {
 
               <div className="p-3 rounded-2xl bg-slate-50 border border-slate-200 shadow-md">
 
-                <Image
-                  src="/colegio-naval.png"
+                <img
+                  src="https://colegiosnavales.armada.mil.co/sites/default/files/logo2.png"
                   alt="Colegio Naval Crespo"
-                  width={90}
-                  height={90}
-                  className="object-contain"
-                  priority
+                  width="90"
+                  height="90"
                 />
               </div>
 
