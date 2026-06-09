@@ -28,7 +28,7 @@ export default function Home() {
               <div className="p-3 rounded-2xl bg-slate-50 border border-slate-200 shadow-md">
 
                 <Image
-                  src="/colegio-naval.png"
+                  src="./colegio-naval.png"
                   alt="Colegio Naval Crespo"
                   width={90}
                   height={90}
